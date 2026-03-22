@@ -13,6 +13,9 @@ The system can also detect **unknown objects** and provide the most likely predi
 👉 https://huggingface.co/spaces/Sojib11111/fruit-freshness-app
 
 ---
+## 🖼️ UI
+![Ui](UI1.png)
+![UI](UI2.png)
 
 ## 🎯 Features
 
